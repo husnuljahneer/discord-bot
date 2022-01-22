@@ -4,10 +4,12 @@
 ### As my pepper bot's users have been requesting me for its source code. Here it is. Enjoy! 
 
 ## Configuration
-- Paste your Discord Bot Token in config/bot.js and you are good to go!
+
+### Part 1
+- Paste your Discord Bot Token in config/bot.js
 - Change the prefix of the bot as you wish!
 
-```JSON
+```javascript
 
  discord: {
         token: 'YOUR_TOKEN_HERE',
@@ -16,6 +18,26 @@
  }
 
 ```
+
+### Part 2
+- Edit index.js
+- Copy paste your MongoDb URI Here!
+
+```javascript
+//Mongo DB configuration - #Line 17
+const MONGO_URI = 'YOUR_MONGO_URI_HERE'; 
+
+
+//Music Player Configuration - #Line 220
+client.musicBot = new MusicBot(client, {
+  ytApiKey: 'YOUR_YT_API_KEY_HERE',
+  prefix: `$`,
+  language: 'en'
+});
+
+
+```
+
 ## Invite Pepper ( See how it works )
 
 To invite the bot [click here](https://discord.com/oauth2/authorize?client_id=854653868754862090&permissions=4294967287&scope=bot).
