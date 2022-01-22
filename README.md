@@ -1,7 +1,17 @@
 
 # Discord Bot
 
-### As my pepper bot's users have been requesting me for its source code. Here it is. Enjoy! 
+### As my pepper bot's users have been requesting me for its source code. Here it is. Enjoy! !
+![](https://i.imgur.com/U6fYt4G.png)
+
+## Invite Pepper ( See how it works )
+
+To invite the bot [click here](https://discord.com/oauth2/authorize?client_id=854653868754862090&permissions=4294967287&scope=bot).
+[ You can also invite Pepper using **$invite** command. ]
+
+### See the bot in action 
+
+Visit the main server [Click here](https://discord.gg/gqB8GCRcDm).
 
 ## Configuration
 
@@ -38,15 +48,6 @@ client.musicBot = new MusicBot(client, {
 
 ```
 
-## Invite Pepper ( See how it works )
-
-To invite the bot [click here](https://discord.com/oauth2/authorize?client_id=854653868754862090&permissions=4294967287&scope=bot).
-[ You can also invite Pepper using **$invite** command. ]
-
-### See the bot in action 
-
-Visit the main server [Click here](https://discord.gg/gqB8GCRcDm).
-
 # About
 
 A Multipurpose Discord Bot With Anime, 38 Games, Activities, Image, Fun, Utility and Moderation Commands! All of the Commands and Activities. With collection of over many games and activities, Pepper-bot is your all in one bot or your personal slave. Pepper-bot can even talk and recognise your text! How cool is that!! 
@@ -75,8 +76,7 @@ A Multipurpose Discord Bot With Anime, 38 Games, Activities, Image, Fun, Utility
 
 **Users that have tested Pepper bot said It's the cutest bot ever. Try Yourself!**
 
-_And Many More!! You are going to love using the pepper! I'm damn sure!_
-=======
+And Many More!! You are going to love using the pepper! I'm damn sure!
 
 ## Pepper Dashboard
 
