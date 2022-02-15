@@ -1,7 +1,6 @@
 
 # Discord Bot
 
-### As my pepper bot's users have been requesting me for its source code. Here it is. Enjoy! !
 ![](https://i.imgur.com/U6fYt4G.png)
 
 ## Invite Pepper ( See how it works )
