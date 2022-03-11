@@ -16,7 +16,7 @@
     "common-tags": "^1.8.0",
     "cows": "^2.1.1",
     "discord-battleship": "^1.0.4",
-    "discord-blackjack": "^2.0.4",
+    "discord-blackjack": "^4.0.0",
     "discord-minigames": "^1.2.2",
     "discord-player": "^3.3.2",
     "discord-speech-recognition": "^1.0.6",
