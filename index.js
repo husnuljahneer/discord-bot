@@ -170,7 +170,7 @@ client.on("message", async (message) => {
       db.add(`peppercommands_${server}_${user.id}`, 1);
     }
     if (pepperCommands % 100 == 0) {
-      if (message.author.bot || pepperCommands == null || message.member.id == null || message.guild.id == null) return;
+      if (message.author.bot || pepperCommands === null || message.member.id === null || message.guild.id === null) return;
       await mongoCurrency.giveCoins(message.member.id, message.guild.id, 1500)
       await mongoCurrency.giveBankSpace(message.member.id, message.guild.id, 1000)
       let embed = new Discord.MessageEmbed()
