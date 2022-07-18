@@ -19,7 +19,7 @@
     "discord-blackjack": "^2.0.4",
     "discord-minigames": "^1.2.2",
     "discord-player": "^3.3.2",
-    "discord-speech-recognition": "^1.0.6",
+    "discord-speech-recognition": "^2.0.0",
     "discord-tictactoe": "^2.1.0",
     "discord-tts": "^1.2.0",
     "discord-uno": "^2.0.21",
