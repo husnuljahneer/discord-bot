@@ -18,7 +18,7 @@
     "discord-battleship": "^1.0.4",
     "discord-blackjack": "^2.0.4",
     "discord-minigames": "^1.2.2",
-    "discord-player": "^3.3.2",
+    "discord-player": "^6.0.0",
     "discord-speech-recognition": "^1.0.6",
     "discord-tictactoe": "^2.1.0",
     "discord-tts": "^1.2.0",
