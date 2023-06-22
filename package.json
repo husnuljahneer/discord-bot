@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@discordjs/opus": "^0.3.3",
+    "@discordjs/opus": "^0.9.0",
     "@replit/database": "^2.0.1",
     "canvacord": "^5.2.1",
     "canvas": "^2.8.0",
