@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
-    "@replit/database": "^2.0.1",
+    "@replit/database": "^3.0.0",
     "canvacord": "^5.2.1",
     "canvas": "^2.8.0",
     "common-tags": "^1.8.0",
