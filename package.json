@@ -12,7 +12,7 @@
     "@discordjs/opus": "^0.3.3",
     "@replit/database": "^2.0.1",
     "canvacord": "^5.2.1",
-    "canvas": "^2.8.0",
+    "canvas": "^3.0.0",
     "common-tags": "^1.8.0",
     "cows": "^2.1.1",
     "discord-battleship": "^1.0.4",
