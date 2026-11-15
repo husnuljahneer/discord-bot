@@ -14,7 +14,7 @@
     "canvacord": "^5.2.1",
     "canvas": "^2.8.0",
     "common-tags": "^1.8.0",
-    "cows": "^2.1.1",
+    "cows": "^3.0.0",
     "discord-battleship": "^1.0.4",
     "discord-blackjack": "^2.0.4",
     "discord-minigames": "^1.2.2",
